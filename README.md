@@ -1,2 +1,2 @@
 # AIRA
-link model [https://huggingface.co/spaces/Viralina/aira]
+**link** [`model aira`](https://huggingface.co/spaces/Viralina/aira)
